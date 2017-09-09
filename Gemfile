@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
-gem 'rails-i18n'
+rails generate controller StaticPages home help
 
 group :development, :test do
   gem 'rspec-rails'

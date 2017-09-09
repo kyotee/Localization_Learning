@@ -1,0 +1,6 @@
+gr:
+  welcome:
+    welcomeheader: "herzlich willkommen!"
+    about: "Dies ist eine einfache Lokalisierungsanwendung."
+  content:
+    paragraph: "Diese Anwendung ist zum Lernen gefragt, wie man die Abnahmetests für die Lokalisierung vollständig automatisieren kann."
