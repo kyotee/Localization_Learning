@@ -1,0 +1,12 @@
+== README
+
+This simple application serves the purpose of learning how to integrate the following gems and their associated functionalities together:
+
+    gem 'rails-i18n'
+    gem 'rspec-rails'
+    gem 'capybara'
+    gem 'capybara-screenshot-diff'
+    gem 'selenium-webdriver'
+	gem 'poltergeist'
+
+Application permits ability to conduct comprehensive acceptance testing for localization.
