@@ -24,7 +24,6 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
-rails generate controller StaticPages home help
 
 group :development, :test do
   gem 'rspec-rails'
@@ -32,6 +31,7 @@ group :development, :test do
   gem 'capybara-screenshot-diff'
   gem 'selenium-webdriver'
 	gem 'poltergeist'
+  gem 'pry-rails'
 end
 
 

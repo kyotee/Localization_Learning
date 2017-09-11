@@ -42,3 +42,8 @@ Default information provided in en.yml:
     #
     # To learn more, please read the Rails Internationalization guide
     # available at http://guides.rubyonrails.org/i18n.html.
+    
+    
+    
+Capybara reference:
+https://gist.github.com/maxivak/c961800c3b898cd6a56c
