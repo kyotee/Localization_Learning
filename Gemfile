@@ -27,9 +27,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   gem 'rspec-rails'
-  gem 'capybara'
+  gem 'capybara', '2.10.1'
   gem 'capybara-screenshot-diff'
-  gem 'selenium-webdriver'
+  gem 'selenium-webdriver', '3.0.3'
 	gem 'poltergeist'
   gem 'pry-rails'
 end
