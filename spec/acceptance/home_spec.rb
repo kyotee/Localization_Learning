@@ -8,9 +8,9 @@ feature "localization" do
             visit '/static_pages/home'
     
             expect(page).to have_content(I18n.t('welcome.welcomeheader'))   
-            # expect(page).to have_content(I18n.t('welcome.welcomeheader'))
-            # expect(page).to have_content(I18n.t('welcome.about'))
-            # expect(page).to have_content(I18n.t('content.paragraph'))
+            expect(page).to have_content(I18n.t('welcome.welcomeheader'))
+            expect(page).to have_content(I18n.t('welcome.about'))
+            expect(page).to have_content(I18n.t('content.paragraph'))
         end
     
     end
