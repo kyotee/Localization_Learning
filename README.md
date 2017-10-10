@@ -3,12 +3,12 @@
 This simple application serves the purpose of learning how to integrate the following gems and their associated functionalities together:
 
 ```ruby
-    gem 'rails-i18n'
-    gem 'rspec-rails'
-    gem 'capybara'
-    gem 'capybara-screenshot-diff'
-    gem 'selenium-webdriver'
-	gem 'poltergeist'
+gem 'rails-i18n'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'capybara-screenshot-diff'
+gem 'selenium-webdriver'
+gem 'poltergeist'
 ```
 
 Application permits ability to conduct comprehensive acceptance testing for localization.
@@ -23,4 +23,4 @@ Capybara reference:
 
 ## Disclaimer
 
-Local machine contains additional functionality which is not included in this repository; NDA is respected. If any questions or concerns arise please contact me at `tamkylet@sfu.ca`
+Local machine contains additional functionality which is not included in this repository; NDA is respected. If any questions or concerns arise please contact me at `tamkylet@sfu.ca`.
